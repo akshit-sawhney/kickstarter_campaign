@@ -1,5 +1,7 @@
 import React from "react";
 
-export default () => {
+const NewCampaign = (props) => {
     return <h1>Welcome to new campaign page</h1>
 }
+
+export default NewCampaign;
